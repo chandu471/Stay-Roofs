@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="green_vally_lodge" label="Green Vally Lodge " language="en" table="x_1427266_stay_roo_hotels">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>green_vally_lodge</element>
+            <help/>
+            <hint/>
+            <label>Green Vally Lodge </label>
+            <language>en</language>
+            <name>x_1427266_stay_roo_hotels</name>
+            <plural>Green Vally Lodge s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-01-15 20:59:15</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Green Vally Lodge</sys_name>
+            <sys_package display_value="Stay Roofs" source="x_1427266_stay_roo">ad66f4b2830712100a7af855eeaad384</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Stay Roofs">ad66f4b2830712100a7af855eeaad384</sys_scope>
+            <sys_update_name>sys_documentation_x_1427266_stay_roo_hotels_green_vally_lodge_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-01-15 20:59:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
