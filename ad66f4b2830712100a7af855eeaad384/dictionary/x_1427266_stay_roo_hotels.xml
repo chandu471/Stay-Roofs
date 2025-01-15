@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="93a6f0f2830712100a7af855eeaad3bb" label="Hotels" max_length="40" name="x_1427266_stay_roo_hotels" type="collection">
+        <element label="City Stay Inn" max_length="80" name="city_stay_inn" type="field_name"/>
+        <element label="MAple Leaf INN" max_length="40" name="maple_leaf_inn" type="string"/>
+        <element label="Green Vally Lodge" max_length="40" name="green_vally_lodge" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Ocean Breeze INN" max_length="40" name="ocean_breeze_inn" type="string"/>
+        <element label="Lake ViewINN" max_length="40" name="lake_viewinn" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sunset INN" max_length="40" name="sunset_inn" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
